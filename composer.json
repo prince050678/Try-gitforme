@@ -1,0 +1,12 @@
+{
+    "name": "prince/gitforme",
+    "description": "ecommerce platform using php",
+    "license": "MMIntl",
+    "authors": [
+        {
+            "name": "Mamun Prince",
+            "email": "mamuntrades@gmail.com"
+        }
+    ],
+    "require": {}
+}
